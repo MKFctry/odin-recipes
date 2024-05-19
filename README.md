@@ -1,1 +1,1 @@
-Recipes project from the Odin Project. Use HTML to create webpage showcasing recipes. 
+Recipes project from the Odin Project. Use HTML to create webpage showcasing recipes. Will likely revisit in later lessons to stylize. 
